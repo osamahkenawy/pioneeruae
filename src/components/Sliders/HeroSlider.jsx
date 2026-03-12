@@ -55,7 +55,7 @@ const HeroSlider = () => {
                 className="ak-hero-bg ak-bg object-cover"
                 style={{ objectFit: 'cover' }}
               >
-                <source src="/assets/video/hero-bg-banner.mp4" type="video/mp4" />
+                <source src="/assets/video/smart-car-video-origination-pioneer.mp4" type="video/mp4" />
               </video>
               <div className="container">
                 <div className="hero-slider-info">
