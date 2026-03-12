@@ -3103,6 +3103,13 @@ kbd {
 .ak-hero.ak-style1 .hero-slider-info.style-two {
   margin-top: 0%;
 }
+.ak-hero.ak-style1 .hero-slider-info .slider-info {
+  background: rgba(0, 0, 0, 0.55);
+  padding: 40px 45px;
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
 .ak-hero.ak-style1 .hero-slider-info .hero-main-title {
   text-transform: uppercase;
 }
