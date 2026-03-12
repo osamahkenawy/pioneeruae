@@ -10,7 +10,7 @@ import Videos from "../components/VideoPopUp/Videos";
 // import PricingTable from "../components/Pricing/PricingTable";
 import Blogs from "../components/Blog/Blogs";
 import AppointmentForm from "../components/AppointmentForm/AppointmentForm";
-import MemberContent from "../components/Team/MemberContent";
+// import MemberContent from "../components/Team/MemberContent";
 import Testimonial from "../components/Testimonial/Testimonial";
 
 const CarWorkshop = () => {
@@ -23,7 +23,6 @@ const CarWorkshop = () => {
       <AutoCounter styleTwo={true} />
       <Testimonial />
       {/* <TrustedClient /> */}
-      <MemberContent styleTwo={true} />
       <Videos videoId={"VcaAVWtP48A"} />
       <Blogs styleTypeTwo={true} />
       <AppointmentForm />

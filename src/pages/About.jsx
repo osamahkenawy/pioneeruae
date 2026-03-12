@@ -5,7 +5,7 @@ import CompanyTab from "../components/CompanyTab/CompanyTab";
 import ChooseUs from "../components/ChooseUs/ChooseUs";
 import AutoCounter from "../components/AutoCounter/AutoCounter";
 import Testimonial from "../components/Testimonial/Testimonial";
-import Teams from "../components/Team/Teams";
+// import Teams from "../components/Team/Teams";
 // import PricingTable from "../components/Pricing/PricingTable";
 import TrustedClient from "../components/TrustedClient/TrustedClient";
 import Cta from "../components/Cta/Cta";
@@ -18,7 +18,6 @@ const About = () => {
       <ChooseUs />
       <AutoCounter />
       <Testimonial />
-      <Teams />
       {/* <TrustedClient /> */}
       <Cta />
     </>

@@ -9,8 +9,8 @@ import Service from "./pages/Service";
 import ServicesTwo from "./pages/ServicesTwo";
 import Blog from "./pages/Blog";
 import SingleBlog from "./pages/SingleBlog";
-import Team from "./pages/Team";
-import TeamMemberDetails from "./pages/TeamMemberDetails";
+// import Team from "./pages/Team";
+// import TeamMemberDetails from "./pages/TeamMemberDetails";
 import Testimonials from "./pages/Testimonial";
 import Gallery from "./pages/Gallery";
 import Appointment from "./pages/Appointment";
@@ -42,8 +42,6 @@ export default function App() {
         ></Route>
         <Route path="/blog" element={<Blog />}></Route>
         <Route path="/blog-single/:blogId" element={<SingleBlog />} />
-        <Route path="/team" element={<Team />} />
-        <Route path="/team-member/:teamId" element={<TeamMemberDetails />} />
         <Route path="/testimonial" element={<Testimonials />} />
         <Route path="/appointment" element={<Appointment />} />
         <Route path="/faq" element={<Faq />} />

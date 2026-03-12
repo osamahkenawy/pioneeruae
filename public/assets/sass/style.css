@@ -3120,12 +3120,17 @@ kbd {
   top: 90px;
   z-index: 11;
   left: 50%;
-  width: 100%;
-  transform: translate(-50%, 50%);
+  width: auto;
+  transform: translate(-50%, 0);
   display: flex;
-  gap: 113px;
+  gap: 60px;
   align-items: center;
   justify-content: center;
+  background: rgba(0, 0, 0, 0.65);
+  padding: 14px 40px;
+  border-radius: 8px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
 }
 
 .social-hero {

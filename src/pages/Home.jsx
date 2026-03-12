@@ -9,7 +9,7 @@ import TrustedClient from "../components/TrustedClient/TrustedClient";
 import Testimonial from "../components/Testimonial/Testimonial";
 // import PricingTable from "../components/Pricing/PricingTable";
 import Blogs from "../components/Blog/Blogs";
-import Teams from "../components/Team/Teams";
+// import Teams from "../components/Team/Teams";
 import AutoCounter from "../components/AutoCounter/AutoCounter";
 
 export default function Home() {
@@ -23,7 +23,6 @@ export default function Home() {
       <AutoCounter />
       {/* <TrustedClient /> */}
       <Testimonial />
-      <Teams />
       <Blogs styleTypeTwo={true} />
     </>
   );
