@@ -52,8 +52,17 @@ const HeroSlider = () => {
                 muted
                 loop
                 playsInline
-                className="ak-hero-bg ak-bg object-cover"
-                style={{ objectFit: 'cover' }}
+                className="ak-hero-bg"
+                style={{
+                  objectFit: 'cover',
+                  width: '100%',
+                  height: '100%',
+                  minWidth: '100%',
+                  minHeight: '100%',
+                  position: 'absolute',
+                  top: 0,
+                  left: 0,
+                }}
               >
                 <source src="/assets/video/smart-car-video-origination-pioneer.mp4" type="video/mp4" />
               </video>
