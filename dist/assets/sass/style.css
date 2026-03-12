@@ -2197,7 +2197,7 @@ kbd {
   display: inline-block;
 }
 .ak-site_branding img {
-  max-height: 45px;
+  max-height: 100px;
 }
 
 @media screen and (min-width: 1200px) {
@@ -2601,7 +2601,7 @@ kbd {
     margin-right: 0;
   }
   .ak-site_branding img {
-    max-height: 32px;
+    max-height: 60px;
   }
   .ak-site_header.ak-style1 .ak-btn span {
     display: none;
