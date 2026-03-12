@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Darrell T. Beedle",
+        "title": "Lead Mechanic",
+        "image": "/assets/img/member/member_1.jpg",
+        "desp": "Expert automotive mechanic with over 15 years of experience in mechanical repairs, engine diagnostics, and periodic maintenance services.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Sharjah, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Michael Jack",
+        "title": "Service Advisor",
+        "image": "/assets/img/member/member_2.jpg",
+        "desp": "Dedicated service advisor ensuring every customer receives personalized attention and transparent guidance on their vehicle's service needs.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Dubai, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Cathy Sparkman",
+        "title": "Diagnostic Technician",
+        "image": "/assets/img/member/member_3.jpg",
+        "desp": "Specialist in computerised diagnostic services, using state-of-the-art equipment for accurate fault detection and efficient vehicle repairs.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Abu Dhabi, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Charles G. Macdonald",
+        "title": "System Technician",
+        "image": "/assets/img/member/member_4.jpg",
+        "desp": "Skilled systems technician specializing in A/C, electrical repairs, and computerised wheel balancing and alignment services.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Al Ain, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Anthony M. Lass",
+        "title": "Systems Specialist",
+        "image": "/assets/img/member/member_5.jpg",
+        "desp": "Experienced systems specialist focused on collision repair services and body repair with advanced paint matching technology.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Dubai, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Tyra Crawford",
+        "title": "Lead Mechanic",
+        "image": "/assets/img/member/member_6.jpg",
+        "desp": "Certified lead mechanic with expertise in unit overhauls, tyre change and replacement services, and periodic maintenance.",
+        "socialLinks": {
+            "linkedin": "https://www.linkedin.com/company/pioneer-car-service-center/",
+            "facebook": "https://www.facebook.com/PioneerCare/",
+            "twitter": "https://www.instagram.com/pioneercaremn/"
+        },
+        "contact": {
+            "address": "Sharjah, UAE",
+            "email": "info@pioneeruae.com",
+            "phone": "80077799",
+            "website": "www.pioneeruae.com"
+        }
+    }
+]

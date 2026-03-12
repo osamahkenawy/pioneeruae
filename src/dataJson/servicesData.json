@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/img/service/service_1.jpg",
+        "title": "Periodic Maintenance Services",
+        "desp": "Regular scheduled maintenance to keep your vehicle running at peak performance and extend its lifespan."
+    },
+    {
+        "id": 2,
+        "img": "/assets/img/service/service_2.jpg",
+        "title": "Mechanical Repairs",
+        "desp": "Professional mechanical repairs with qualified technicians using the latest diagnostic tools and equipment."
+    },
+    {
+        "id": 3,
+        "img": "/assets/img/service/service_3.jpg",
+        "title": "A/C and Electrical Repairs",
+        "desp": "Expert A/C and electrical system repairs to ensure your vehicle's comfort and electrical systems work flawlessly."
+    },
+    {
+        "id": 4,
+        "img": "/assets/img/service/service_4.jpg",
+        "title": "Computerised Diagnostic Services",
+        "desp": "State-of-the-art computerised diagnostic equipment for accurate fault detection and efficient repairs."
+    },
+    {
+        "id": 5,
+        "img": "/assets/img/service/service_5.jpg",
+        "title": "Tyre Change/Replacement Service",
+        "desp": "Expert tyre change and replacement services to ensure optimal vehicle performance and safety."
+    },
+    {
+        "id": 6,
+        "img": "/assets/img/service/service_1.jpg",
+        "title": "Computerised Wheel Balancing and Alignment Services",
+        "desp": "Precision computerised wheel balancing and alignment to ensure smooth driving and even tyre wear."
+    },
+    {
+        "id": 7,
+        "img": "/assets/img/service/service_2.jpg",
+        "title": "Collision Repair Services",
+        "desp": "Complete collision repair services to restore your vehicle to its pre-accident condition."
+    },
+    {
+        "id": 8,
+        "img": "/assets/img/service/service_3.jpg",
+        "title": "Body Repair and Painting Services",
+        "desp": "Professional body repair and painting services with advanced computerised paint mixing for perfect color matching."
+    },
+    {
+        "id": 9,
+        "img": "/assets/img/service/service_4.jpg",
+        "title": "Unit Overhauls",
+        "desp": "Comprehensive unit overhaul services for engines, transmissions, and other major vehicle components."
+    }
+]

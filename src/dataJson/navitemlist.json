@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "key": "home"
+    },
+    {
+        "title": "Service",
+        "link": "/service",
+        "key": "service"
+    },
+    {
+        "title": "Workshop",
+        "link": "/gallery",
+        "key": "workshop"
+    },
+    {
+        "title": "Contact",
+        "link": "/contact",
+        "key": "contact"
+    }
+]

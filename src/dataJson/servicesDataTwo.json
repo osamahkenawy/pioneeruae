@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Periodic Maintenance",
+        "description": "Regular scheduled maintenance to keep your vehicle running at peak performance, including oil changes, filter replacements, and fluid checks.",
+        "icon": "/assets/img/icon/service-icon-1.svg"
+    },
+    {
+        "id": 2,
+        "title": "Mechanical Repairs",
+        "description": "Professional mechanical repairs by qualified technicians covering engine, transmission, suspension, and all drivetrain components.",
+        "icon": "/assets/img/icon/service-icon-2.svg"
+    },
+    {
+        "id": 3,
+        "title": "A/C & Electrical Repairs",
+        "description": "Expert air conditioning and electrical system diagnostics and repairs to ensure your vehicle's comfort and safety systems function properly.",
+        "icon": "/assets/img/icon/service-icon-3.svg"
+    },
+    {
+        "id": 4,
+        "title": "Computerised Diagnostics",
+        "description": "State-of-the-art computerised diagnostic equipment for accurate fault detection, error code reading, and efficient troubleshooting.",
+        "icon": "/assets/img/icon/service-icon-4.svg"
+    },
+    {
+        "id": 5,
+        "title": "Tyre Change & Replacement",
+        "description": "Complete tyre change and replacement services with a wide selection of tyre brands, ensuring optimal safety and performance.",
+        "icon": "/assets/img/icon/service-icon-5.svg"
+    },
+    {
+        "id": 6,
+        "title": "Wheel Balancing & Alignment",
+        "description": "Precision computerised wheel balancing and alignment services to ensure smooth driving, even tyre wear, and proper vehicle handling.",
+        "icon": "/assets/img/icon/service-icon-6.svg"
+    },
+    {
+        "id": 7,
+        "title": "Collision Repair",
+        "description": "Comprehensive collision repair services to restore your vehicle to its pre-accident condition, including structural and frame repairs.",
+        "icon": "/assets/img/icon/service-icon-7.svg"
+    },
+    {
+        "id": 8,
+        "title": "Body Repair & Painting",
+        "description": "Professional body repair and painting services using advanced computerised paint mixing technology for perfect color matching.",
+        "icon": "/assets/img/icon/service-icon-8.svg"
+    },
+    {
+        "id": 9,
+        "title": "Unit Overhauls",
+        "description": "Complete unit overhaul services for engines, transmissions, and other major vehicle components to restore factory performance.",
+        "icon": "/assets/img/icon/service-icon-9.svg"
+    }
+]
